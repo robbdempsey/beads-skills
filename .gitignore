@@ -1,5 +1,6 @@
 .agents
-
+.beads
+TODO.md
 
 # TYPESCRIPT
 # ref: https://github.com/microsoft/TypeScript/blob/main/.gitignore
